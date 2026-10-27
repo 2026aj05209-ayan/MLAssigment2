@@ -8,7 +8,7 @@ The goal of this project is to classify Near-Earth Objects (NEOs) as **Potential
 - **Source**: [Kaggle Dataset Link](https://www.kaggle.com/datasets/sunethjayawardana/nasa-near-earth-objects-neo-full-dataset?resource=download)
 - **Dataset Variable**: `neo_dur_df`
 - **Instances**: 25,869 objects
-- **Features**: 44 features
+- **Model Features Used**: 22 quantitative numerical predictor variables (filtered from 44 raw columns)
 - **Target Variable**: `is_potentially_hazardous_asteroid` (0 = Non-Hazardous, 1 = Potentially Hazardous)
 
 ## c. GitHub Repository Link
